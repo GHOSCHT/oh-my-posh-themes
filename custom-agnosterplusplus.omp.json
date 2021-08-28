@@ -1,0 +1,81 @@
+{
+  "final_space": true,
+  "osc99": false,
+  "console_title": false,
+  "console_title_style": "",
+  "console_title_template": "",
+  "blocks": [
+    {
+      "type": "newline",
+      "alignment": "",
+      "horizontal_offset": 0,
+      "vertical_offset": 0,
+      "segments": null
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "horizontal_offset": 0,
+      "vertical_offset": 0,
+      "segments": [
+        {
+          "type": "root",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "invert_powerline": false,
+          "foreground": "#100e23",
+          "foreground_templates": null,
+          "background": "#1DB954",
+          "background_templates": null,
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "properties": null
+        },
+        {
+          "type": "session",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "invert_powerline": false,
+          "foreground": "#100e23",
+          "foreground_templates": null,
+          "background": "#ffffff",
+          "background_templates": null,
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "properties": null
+        },
+        {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "invert_powerline": false,
+          "foreground": "#fff",
+          "foreground_templates": null,
+          "background": "#007acc",
+          "background_templates": null,
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "properties": {
+            "folder_icon": "",
+            "folder_separator_icon": "  ",
+            "home_icon": " ",
+            "style": "agnoster"
+          }
+        },
+        {
+          "type": "git",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "invert_powerline": false,
+          "foreground": "#193549",
+          "foreground_templates": null,
+          "background": "#4caf50",
+          "background_templates": null,
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "properties": null
+        }
+      ]
+    }
+  ]
+}
