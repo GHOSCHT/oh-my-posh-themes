@@ -29,7 +29,8 @@
           "background_templates": null,
           "leading_diamond": "",
           "trailing_diamond": "",
-          "properties": null
+          "properties": null,
+          "postfix": "\u2800" // invisible spacing character
         },
         {
           "type": "session",
@@ -42,7 +43,8 @@
           "background_templates": null,
           "leading_diamond": "",
           "trailing_diamond": "",
-          "properties": null
+          "properties": null,
+          "postfix": "\u2800" // invisible spacing character
         },
         {
           "type": "path",
@@ -60,7 +62,8 @@
             "folder_separator_icon": "  ",
             "home_icon": " ",
             "style": "agnoster"
-          }
+          },
+          "postfix": "\u2800" // invisible spacing character
         },
         {
           "type": "git",
@@ -73,7 +76,8 @@
           "background_templates": null,
           "leading_diamond": "",
           "trailing_diamond": "",
-          "properties": null
+          "properties": null,
+          "postfix": "\u2800" // invisible spacing character
         }
       ]
     }
