@@ -34,21 +34,6 @@
           }
         },
         {
-          "type": "session",
-          "style": "powerline",
-          "powerline_symbol": "",
-          "invert_powerline": false,
-          "foreground": "#100e23",
-          "foreground_templates": null,
-          "background": "#ffffff",
-          "background_templates": null,
-          "leading_diamond": "",
-          "trailing_diamond": "",
-          "properties": {
-            "postfix": "\u2800" // invisible spacing character
-          }
-        },
-        {
           "type": "path",
           "style": "powerline",
           "powerline_symbol": "",
